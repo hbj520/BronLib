@@ -1,0 +1,27 @@
+PODS:
+  - BronLib (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - BronLib (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  BronLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BronLib: cadf2609547a2e5fec80707276c01214d83f60b3
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 2cfc4a072da2714b54009faf83c7ee81905404e4
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,22 @@
+{
+  "name": "BronLib",
+  "version": "0.1.0",
+  "summary": "A short description of BronLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hbjmailformac@163.com/BronLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hbjmailformac@163.com": "hbjmailformac@163.com"
+  },
+  "source": {
+    "git": "https://github.com/hbjmailformac@163.com/BronLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BronLib/Classes/**/*"
+}

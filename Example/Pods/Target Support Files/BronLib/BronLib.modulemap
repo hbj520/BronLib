@@ -1,0 +1,6 @@
+framework module BronLib {
+  umbrella header "BronLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
